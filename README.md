@@ -12,7 +12,7 @@ PENTRU FIREFOX [https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/]
 
 2 Userscript
 
-Creati un script nou in TamperMonkey si copiati tot din userscrpit acolo
+Deschideti scriptul si apasati install -https://raw.githubusercontent.com/PeterRI69/Romania-Overlay/main/userscript.user.js
 
 ---
 🇺🇸 English
