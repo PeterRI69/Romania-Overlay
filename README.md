@@ -5,7 +5,7 @@
 
 PENTRU CHROME [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en]
 
-MICROSOFT EDGE https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
+PENTRU MICROSOFT EDGE https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
 
 PENTRU OPERA https://addons.opera.com/en/extensions/details/tampermonkey-beta/
 
