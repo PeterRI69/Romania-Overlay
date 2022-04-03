@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         osu! Logo template
+// @name         Romania Template
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  try to take over the canvas!
