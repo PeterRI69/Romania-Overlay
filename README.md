@@ -3,7 +3,7 @@
 
 1 Extensia
 
-PENTRU CHROME [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en]
+PENTRU CHROME/EDGE [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en]
 
 PENTRU OPERA https://addons.opera.com/en/extensions/details/tampermonkey-beta/
 
