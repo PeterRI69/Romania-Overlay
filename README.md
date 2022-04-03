@@ -10,4 +10,4 @@ PENTRU FIREFOX [https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/]
 
 2 Userscript
 
-Instalati userscript.user.js
+Creati un script nou in TamperMonkey si copiati tot din userscrpt acolo
