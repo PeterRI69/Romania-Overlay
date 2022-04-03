@@ -3,7 +3,9 @@
 
 1 Extensia
 
-PENTRU CHROME/EDGE [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en]
+PENTRU CHROME [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en]
+
+MICROSOFT EDGE https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
 
 PENTRU OPERA https://addons.opera.com/en/extensions/details/tampermonkey-beta/
 
@@ -20,6 +22,7 @@ How to install the overlay?
 
 1. Extension
 - Chrome/Edge [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en]
+- Microsoft Edge https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
 - Opera [https://addons.opera.com/en/extensions/details/tampermonkey-beta/]
 - Firefox [https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/]
 
