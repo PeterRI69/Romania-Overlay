@@ -19,7 +19,7 @@ Deschideti linkul -https://raw.githubusercontent.com/PeterRI69/Romania-Overlay/m
 How to install the overlay?
 
 1. Extension
-- Chrome [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en]
+- Chrome/Edge [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en]
 - Opera [https://addons.opera.com/en/extensions/details/tampermonkey-beta/]
 - Firefox [https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/]
 
