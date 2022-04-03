@@ -1,7 +1,7 @@
-/ ==UserScript==
+// ==UserScript==
 // @name         osu! Logo template
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.2
 // @description  try to take over the canvas!
 // @author       oralekin, LittleEndu, ekgame
 // @match        https://hot-potato.reddit.com/embed*
