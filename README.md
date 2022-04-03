@@ -12,7 +12,7 @@ PENTRU FIREFOX [https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/]
 
 2 Userscript
 
-Deschideti scriptul si apasati install -https://raw.githubusercontent.com/PeterRI69/Romania-Overlay/main/userscript.user.js
+Deschideti linkul -https://raw.githubusercontent.com/PeterRI69/Romania-Overlay/main/userscript.user.js
 
 ---
 🇺🇸 English
